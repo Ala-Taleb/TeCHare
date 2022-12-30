@@ -1,0 +1,8 @@
+Flask-RESTful==0.3.8
+Flask-SQLAlchemy==2.5.1
+Flask-Mail
+python-dotenv
+flask-jwt-extended
+markupsafe==2.0.1
+passlib
+Flask-Migrate
